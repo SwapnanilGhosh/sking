@@ -2,7 +2,7 @@
 <pagescount>
 	<html_total>1</html_total>
 	<html_done>1</html_done>
-	<images>11</images>
+	<images>10</images>
 	<script>2</script>
 	<css/>
 	<pdf/>
@@ -16,13 +16,13 @@
 	<json/>
 	<txt/>
 	<autocad/>
-	<fonts>16</fonts>
+	<fonts>14</fonts>
 	<scraping_reload>1</scraping_reload>
 	<is_pretty_url>false</is_pretty_url>
 	<is_ebn>false</is_ebn>
-	<email>2sj2hutdw33g3h1s37bts@gmail.com</email>
-	<theme_name>WmdTheme684909</theme_name>
-	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/ethermoon.my.canva.site_2sj2hutdw33g3h1s37bts_gmail.com_y544ce6ih0/</server_url_front_page>
+	<email>2sj2hutdw33g3h1rs37bts@gmail.com</email>
+	<theme_name>WmdTheme684915</theme_name>
+	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/ethermoon.my.canva.site_2sj2hutdw33g3h1rs37bts_gmail.com_bwktgs66ol/</server_url_front_page>
 	<no_www_url>ethermoon.my.canva.site</no_www_url>
 	<hosted_domain/>
 	<original_archive_url>https://ethermoon.my.canva.site/copy-of-ordinalvolt</original_archive_url>
@@ -31,5 +31,5 @@
 	<total_urls_from_api/>
 	<max_reached_live>false</max_reached_live>
 	<scrape_other_captures>false</scrape_other_captures>
-	<total_size>1688</total_size>
+	<total_size>1848</total_size>
 </pagescount>
